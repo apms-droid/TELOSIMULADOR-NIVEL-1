@@ -72,6 +72,7 @@ Com a pressão aumentando, a equipe se mobiliza para entender a origem dessas
 transações fantasmas e encontrar uma solução para corrigir o problema. Enquanto
 buscam respostas, enfrentam desafios técnicos e logísticos, mas estão determinados
 a restaurar a normalidade e garantir a precisão dos dados financeiros.
+
 6. História de Usuário 5: Tratamento de erros
 Descrição: Como membro da equipe financeira, desejo saber se houve algum
 problema no processamento das transações. É considerado um problema no
